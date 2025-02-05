@@ -1,1 +1,1 @@
-Esto es una orueba de escrituta en VS Code sincronizando con GitHub
+Esto es una prueba de escrituta en VS Code sincronizando con GitHub
